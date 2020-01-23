@@ -23,6 +23,7 @@ allprojects {
 `
 implementation 'com.datetimepicker.datetimepickerlibrary:datetimepickerlibrary:0.0.4'
 `
+
 And you can able to use the date time picker now.
 
 # Intialization
