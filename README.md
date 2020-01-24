@@ -82,5 +82,10 @@ Here, you can able to get the result accordingly. If user select some date you c
 ## Screen Shots
 Below are some screen shots which will make understanding easily... This library is under development. It will enhanced along with features and issues are most welcome. Kindly raise your suggestions in issue box. Thanks.
 
-![Time Picker](https://i.ibb.co/MG93hhP/time-picker.gif), ![Date Picker](https://i.ibb.co/98f36hy/date-picker.gif),![Date And Time Picker](https://i.ibb.co/LNfb6Rm/date-time-picker.gif)
-
+<p float="left">
+ <img src="https://i.ibb.co/MG93hhP/time-picker.gif" width="280" height="480" title="Time Picker" hspace="100">
+ <img src="https://i.ibb.co/98f36hy/date-picker.gif" width="280" height="480" title="Date Picker" hspace="50">
+</p>
+<p align="center">
+  <img src="https://i.ibb.co/LNfb6Rm/date-time-picker.gif" width="280" height="480"title="Date And Time Picker">
+</p>
