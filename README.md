@@ -69,5 +69,18 @@ Here, you can able to get the result accordingly. If user select some date you c
     }
 
 }
-
 ```
+
+## Result Success CallBack
+
+| Result | Readme |
+| ------ | ------ |
+| datetimeRequestedFormat | Returns the result in String as requested format which is added in requested format |
+| dateTimeInMillis | Returns the result in long in milliseconds
+
+
+## Screen Shots
+Below are some screen shots which will make understanding easily... This library is under development. It will enhanced along with features and issues are most welcome. Kindly raise your suggestions in issue box. Thanks.
+
+![Time Picker](https://i.ibb.co/MG93hhP/time-picker.gif), ![Date Picker](https://i.ibb.co/98f36hy/date-picker.gif),![Date And Time Picker](https://i.ibb.co/LNfb6Rm/date-time-picker.gif)
+
